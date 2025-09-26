@@ -6,24 +6,18 @@
 I’m a passionate Full-Stack Developer with hands-on experience in designing, developing, and deploying modern web applications. I specialize in turning complex ideas into seamless digital experiences by combining robust backend logic with intuitive, high-performing frontends.
 
 
+
 𝐌𝐲 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
-
 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: 𝐑𝐞𝐚𝐜𝐭, 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐇𝐓𝐌𝐋𝟓, 𝐂𝐒𝐒𝟑, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭/𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭
-
 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬.𝐣𝐬
-
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 & 𝐂𝐥𝐨𝐮𝐝: 𝐌𝐲𝐒𝐐𝐋, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁, 𝐀𝐖𝐒, 𝐅𝐢𝐫𝐞𝐛𝐚𝐬𝐞
-
 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 & 𝐓𝐨𝐨𝐥𝐬: 𝐆𝐢𝐭, 𝐆𝐢𝐭𝐇𝐮𝐛, 𝐂𝐈/𝐂𝐃
 
-
 I’m passionate about writing clean, efficient, and scalable code, collaborating with cross-functional teams, and continuously learning new technologies to stay ahead in a fast-evolving tech world.
-
 
 I thrive in environments where innovation meets problem-solving — whether building from scratch or improving existing systems — always aiming for high-quality results that deliver value to users and businesses alike.
 
 Regards
-
 Usama
 
 <div align="center">
