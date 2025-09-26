@@ -1,9 +1,10 @@
 <h1 align="center">Hi , I'm Usama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Muhammad+Usama+Ahmed+Ansari;Web+Application+Developer;Mobile+Application+Developer;BLOCKCHAIN+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Muhammad+Usama+Ahsan+Ansari;Web+Application+Developer;MERN+Stack+Developer;Full+Stack+Developer;&center=true&width=500&height=50"></a>
 </p>
 I’m a passionate Full-Stack Developer with hands-on experience in designing, developing, and deploying modern web applications. I specialize in turning complex ideas into seamless digital experiences by combining robust backend logic with intuitive, high-performing frontends.
+
 
 𝐌𝐲 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
 
@@ -20,6 +21,7 @@ I’m passionate about writing clean, efficient, and scalable code, collaboratin
 I thrive in environments where innovation meets problem-solving — whether building from scratch or improving existing systems — always aiming for high-quality results that deliver value to users and businesses alike.
 
 Regards
+
 Usama
 
 <div align="center">
